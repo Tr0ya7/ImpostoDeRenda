@@ -1,0 +1,14 @@
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\bin\Debug\net8.0\exc08_if.exe
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\bin\Debug\net8.0\exc08_if.deps.json
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\bin\Debug\net8.0\exc08_if.runtimeconfig.json
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\bin\Debug\net8.0\exc08_if.dll
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\bin\Debug\net8.0\exc08_if.pdb
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\exc08_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\exc08_if.AssemblyInfoInputs.cache
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\exc08_if.AssemblyInfo.cs
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\exc08_if.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\exc08_if.dll
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\refint\exc08_if.dll
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\exc08_if.pdb
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\exc08_if.genruntimeconfig.cache
+C:\Users\luis\Downloads\curso c#\exc08_if\exc08_if\obj\Debug\net8.0\ref\exc08_if.dll
