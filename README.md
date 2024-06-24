@@ -1,5 +1,5 @@
 # Imposto de renda
-<li>Desenvolvimento Back-End</li><br>
+<li>Desenvolvimento C#</li><br>
 
 ### Tecnologias Usadas
 <li>C#</li>
